@@ -22,7 +22,7 @@ class Game(object):
     GRID_SIZE = 20
     FIELD_SIZE = 400, 400
     
-    #need to implement resource loading here
+    #need to implement resource loading here gdsgesrgrsgser
     
     #global game constants make cheating easy!
         
